@@ -21,7 +21,7 @@
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"Material",
+			"name":"Opaque",
 			"pbrMetallicRoughness":{
 				"baseColorTexture":{
 					"index":0
